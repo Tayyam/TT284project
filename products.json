@@ -116,7 +116,7 @@
             "name": "Linux Ubuntu",
             "image": "images/system3.jpg",
             "specs": "Linux Ubuntu, Open Source",
-            "price": "Free"
+            "price": "0"
           }
         ]
       }
