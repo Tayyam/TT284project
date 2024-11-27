@@ -1,0 +1,125 @@
+{
+    "categories": [
+      {
+        "id": "personal-computers",
+        "name": "Personal Computers",
+        "products": [
+          {
+            "name": "High-Speed PC",
+            "image": "images/pc1.png",
+            "specs": "High-speed processor, 16GB RAM, 512GB SSD",
+            "price": "1200"
+          },
+          {
+            "name": "Budget-Friendly PC",
+            "image": "images/pc2.jpg",
+            "specs": "Budget-friendly, 8GB RAM, 256GB SSD",
+            "price": "700"
+          },
+          {
+            "name": "Gaming PC",
+            "image": "images/pc3.jpg",
+            "specs": "Gaming PC, 32GB RAM, 1TB SSD",
+            "price": "2000"
+          }
+        ]
+      },
+      {
+        "id": "smart-phones",
+        "name": "Smart Phones",
+        "products": [
+          {
+            "name": "5G Smartphone",
+            "image": "images/phone1.jpg",
+            "specs": "5G, 128GB Storage, 48MP Camera",
+            "price": "800"
+          },
+          {
+            "name": "Budget Smartphone",
+            "image": "images/phone2.jpg",
+            "specs": "Budget-friendly, 64GB Storage, 12MP Camera",
+            "price": "400"
+          },
+          {
+            "name": "Gaming Smartphone",
+            "image": "images/phone3.jpg",
+            "specs": "Gaming Phone, 256GB Storage, 64MP Camera",
+            "price": "1200"
+          }
+        ]
+      },
+      {
+        "id": "hardware-accessories",
+        "name": "Hardware & Accessories",
+        "products": [
+          {
+            "name": "Wireless Mouse",
+            "image": "images/hardware1.png",
+            "specs": "Wireless Mouse, 2.4GHz, 1600 DPI",
+            "price": "20"
+          },
+          {
+            "name": "Mechanical Keyboard",
+            "image": "images/hardware2.jpg",
+            "specs": "Mechanical Keyboard, RGB Backlit, Wired",
+            "price": "50"
+          },
+          {
+            "name": "Gaming Headset",
+            "image": "images/hardware3.jpg",
+            "specs": "Gaming Headset, 7.1 Surround Sound, Noise Cancelling",
+            "price": "80"
+          }
+        ]
+      },
+      {
+        "id": "application-software",
+        "name": "Application Software",
+        "products": [
+          {
+            "name": "Microsoft Office Suite",
+            "image": "images/software1.jpg",
+            "specs": "Microsoft Office Suite, Lifetime License",
+            "price": "100"
+          },
+          {
+            "name": "Adobe Creative Suite",
+            "image": "images/software2.png",
+            "specs": "Adobe Creative Suite, Lifetime License",
+            "price": "200"
+          },
+          {
+            "name": "Antivirus Software",
+            "image": "images/software3.png",
+            "specs": "Antivirus Software, 1-Year License",
+            "price": "50"
+          }
+        ]
+      },
+      {
+        "id": "system-software",
+        "name": "System Software",
+        "products": [
+          {
+            "name": "Windows 10 Home",
+            "image": "images/system1.jpg",
+            "specs": "Windows 10 Home, Lifetime License",
+            "price": "150"
+          },
+          {
+            "name": "macOS Big Sur",
+            "image": "images/system2.jpg",
+            "specs": "macOS Big Sur, Lifetime License",
+            "price": "200"
+          },
+          {
+            "name": "Linux Ubuntu",
+            "image": "images/system3.jpg",
+            "specs": "Linux Ubuntu, Open Source",
+            "price": "Free"
+          }
+        ]
+      }
+    ]
+  }
+  
